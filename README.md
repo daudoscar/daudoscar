@@ -17,7 +17,7 @@
 I architect modular backend systems, design relational databases, and build internal platforms that streamline enterprise operations. Currently focused on developing AI-assisted backend solutions while researching secure code generation as part of my **Master's thesis in Informatics**.
 
 - 🏗️ **What I do:** Backend architecture, system design, and scalable ERP development
-- 🤖 **Currently:** Building AI-assisted backends + researching secure code generation (MSc thesis)
+- 🤖 **Currently:** Building problem-solving backends + researching secure code generation (MSc thesis)
 - ⚡ **Recent win:** Go-based ERP that boosted operational efficiency by **40%**
 - 📬 **Automated:** Shopee invoice processing with Gemini API → zero manual data entry
 - 💡 **Philosophy:** Clean architecture, maintainable code, pragmatic solutions for real-world problems
