@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Daud! 👋🩵
+# Horas, I'm Daud! 👋🩵
 
 ### Backend-Focused Software Engineer · System Architecture · ERP Development
 
